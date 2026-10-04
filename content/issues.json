@@ -81,5 +81,29 @@
         }
       ]
     }
+  },
+  {
+    "kind": "package",
+    "n": "003",
+    "slug": "003-ai-feedback-is-not-ai-grading",
+    "title": "AI feedback is not AI grading",
+    "dek": "Let the tool suggest a comment. Let the student provide the evidence.",
+    "date": "Published October 4, 2026",
+    "img": "issue-003-cover.png",
+    "alt": "Illustrated portrait of Chad Wadden between an AI feedback checklist and teacher grading clipboard, beside the title AI Feedback Is Not AI Grading.",
+    "caption": "Generated with the built-in image tool on 2026-10-04 from reference chad-blue-studio.png. Prompt: 16:9 editorial newsletter cover with Chad as a thoughtful teacher, separate feedback and grading symbols, and the exact title AI FEEDBACK IS NOT AI GRADING; no students, logos or documentary styling.",
+    "illustration": {
+      "file": "issue-003-illustration.png",
+      "alt": "Cartoon of Chad Wadden using a large magnifying glass to inspect an AI comment while holding a card that says Show Me."
+    },
+    "infographic": {
+      "file": "issue-003-infographic.png",
+      "alt": "Three-step routine: COMMENT — Check the suggested feedback. CONFIRM — Ask for a brief no-AI response. DECIDE — Teacher chooses the next step."
+    },
+    "resources": {
+      "activity": true,
+      "notes": true
+    },
+    "resourcecopy": "Ready-to-use classroom materials for this issue."
   }
 ]
