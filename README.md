@@ -9,13 +9,12 @@ Contact: cwadden@gnspes.ca
 
 This is a static site: no API keys, database, student accounts or paid hosting are needed. It is hosted by GitHub Pages from the root of `main` with `.nojekyll`.
 
-1. Research and write the article with clearly linked primary sources and scope limitations.
-2. Add the source article to `content/` and the final images to `assets/`.
-3. Add the issue metadata and resource handling in `build.py`; run `python3 build.py`.
-4. Check the pages and resources on desktop and mobile. Check that only public-ready material is present.
-5. Commit and push to `main`. Wait for the Pages deployment and check the live issue and downloads.
+1. Start with an approved Issue package from the production system. From this folder, run `python3 add_issue.py /path/to/package`. Use `--number NNN` or `--date "Published October 11, 2026"` only when you need to override the package values.
+2. Run `python3 build.py` to rebuild the static pages.
+3. Open `index.html`, the new page under `issues/` and any new pages under `resources/`. Check them locally on desktop and mobile, and confirm that only public-ready material is present.
+4. When everything is ready, commit the source and generated files and push to `main`. Wait for the Pages deployment, then check the live issue and resources.
 
-`build.py` uses only the Python standard library. Its small Markdown converter supports the formatting used in the first issue; new issue source is HTML. Edit source files then rebuild rather than editing generated pages.
+Both scripts use only the Python standard library. `add_issue.py` copies the approved article, optional teacher resources and images into the site, then updates `content/issues.json`. It does not build, commit or publish anything. Edit source files and rebuild rather than editing generated pages.
 
 The assignment planner keeps entries only in page memory. Printing includes entered answers. It has no analytics, submission endpoint or persistent storage.
 

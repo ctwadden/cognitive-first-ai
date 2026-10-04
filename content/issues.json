@@ -1,0 +1,85 @@
+[
+  {
+    "kind": "legacy",
+    "legacy_renderer": "001",
+    "n": "001",
+    "slug": "001-ai-is-not-the-teacher",
+    "title": "AI Is Not the Teacher: What Generative AI Can and Cannot Do",
+    "dek": "A practical first step, a ten-minute activity and a check for understanding.",
+    "date": "Prepared September 13 · Published September 27, 2026",
+    "img": "issue-001-cover.png",
+    "alt": "Illustrated newsletter cover featuring Chad Wadden and the message AI is not the teacher.",
+    "caption": "AI-generated illustration of Chad Wadden, based on a supplied AI-enhanced reference portrait.",
+    "resourcecopy": "A ready-to-use, ten-minute evidence check. Fictional data, a deliberately flawed answer and worked teacher notes. No AI account needed.",
+    "resources": [
+      {
+        "href": "../../resources/issue-001-activity.html",
+        "label": "Open student activity",
+        "class": "button"
+      },
+      {
+        "href": "../../resources/issue-001-notes.html",
+        "label": "Teacher notes & answers",
+        "class": "button secondary"
+      }
+    ],
+    "home_resource": {
+      "eyebrow": "Issue 001 · Classroom activity",
+      "title": "Try → Check → Explain",
+      "copy": "A ten-minute reasoning exercise with fictional data, a flawed claim and worked answers.",
+      "group_links": true,
+      "links": [
+        {
+          "href": "resources/issue-001-activity.html",
+          "label": "Student activity",
+          "class": "button"
+        },
+        {
+          "href": "resources/issue-001-notes.html",
+          "label": "Teacher notes →"
+        }
+      ]
+    }
+  },
+  {
+    "kind": "legacy",
+    "legacy_renderer": "002",
+    "n": "002",
+    "slug": "002-the-assignment-makeover",
+    "title": "The Assignment Makeover: Same Learning Goal. Better Evidence.",
+    "dek": "Three practical before-and-after upgrades for essays, science reports and coding tasks.",
+    "date": "Published September 27, 2026",
+    "img": "issue-002-makeover-cover.png",
+    "alt": "Cut-paper illustration of an assignment transformed from a plain sheet into annotated evidence, titled The Assignment Makeover.",
+    "caption": "AI-generated editorial collage. The marks and graph are conceptual illustrations, not research data.",
+    "resourcecopy": "A printable planning sheet, worked redesign and student-facing instructions. Fill it in on screen, then print or save as PDF.",
+    "resources": [
+      {
+        "href": "../../resources/assignment-redesign-kit.html",
+        "label": "Open the redesign kit",
+        "class": "button"
+      },
+      {
+        "href": "../../assets/issue-002-makeover-infographic.png",
+        "label": "Download infographic",
+        "class": "button secondary",
+        "download": true
+      }
+    ],
+    "feature_title": "The Assignment Makeover",
+    "feature_dek": "An essay. A science report. A coding task. See what to change—and what you can take out.",
+    "home_resource": {
+      "eyebrow": "Issue 002 · Teacher planning kit",
+      "title": "Upgrade one assignment",
+      "copy": "A ten-minute planning sheet, a worked redesign and instructions you can adapt for students.",
+      "group_links": false,
+      "links": [
+        {
+          "href": "resources/assignment-redesign-kit.html",
+          "label": "Open the redesign kit",
+          "class": "button"
+        }
+      ]
+    }
+  }
+]
