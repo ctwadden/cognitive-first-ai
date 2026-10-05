@@ -3,7 +3,7 @@
 A practical high-school teacher newsletter by Chad Wadden.
 
 Public site: https://ctwadden.github.io/cognitive-first-ai/
-Contact: cwadden@gnspes.ca
+Contact: https://chadwadden.ca/
 
 ## Publish another issue
 
